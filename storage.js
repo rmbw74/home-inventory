@@ -2,7 +2,7 @@
 const mazda = {
     "name": "Mazda 3",
     "type": "vehicle",
-    "location": "Writing desk",
+    "location": "Garage",
     "description": "2015 Red Mazda 3 with 35000 miles on it"
 }
   
@@ -50,14 +50,14 @@ const purpleRug = {
 
 const cherryWoodTable = {
   "name": "Cherry Wood Table",
-  "type": "Furniture",
+  "type": "furniture",
   "location": "Dining Room",
   "description": "Cherry Wood Dining Room Table"
 }
 
 const peavyAmp = {
   "name": "Peavy Speaker Cabinet",
-  "type": "music equipment",
+  "type": "musicEquipment",
   "location": "Bonus Room",
   "description": "Vintage 1973 Peavey Bass Amp 4X10"
 }

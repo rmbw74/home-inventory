@@ -30,7 +30,7 @@ const standingDesk = {
 }
 const marshallAmp = {
     "name": "Marshall Amplifier",
-    "type": "music equipment",
+    "type": "musicEquipment",
     "location": "Bonus Room",
     "description": "new amplifier"
 }
